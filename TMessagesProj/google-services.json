@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "28737356132",
+    "firebase_url": "https://biyong-641ad.firebaseio.com",
+    "project_id": "biyong-641ad",
+    "storage_bucket": "biyong-641ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28737356132:android:f6afd7b67eae3860",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28737356132-b8mb3cnfumaggpmpslhng0vvdtvcad59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYEZPAN8szAepWGId4P7-sNvlVlSrdOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

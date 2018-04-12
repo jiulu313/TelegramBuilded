@@ -1,0 +1,13 @@
+.idea/
+.gradle/
+build/
+captures/
+obj/
+*.iml
+*.apk
+local.properties
+*.keystore
+*.stackdump
+gradle.properties
+
+TMessagesProj/.externalNativeBuild/
