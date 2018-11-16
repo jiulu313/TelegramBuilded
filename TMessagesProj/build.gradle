@@ -60,9 +60,9 @@ android {
 
         release {
             storeFile file("config/release.keystore")
-            storePassword RELEASE_STORE_PASSWORD
-            keyAlias RELEASE_KEY_ALIAS
-            keyPassword RELEASE_KEY_PASSWORD
+            storePassword "wln123"
+            keyAlias "keyAlias"
+            keyPassword "wln123"
             v2SigningEnabled false
         }
     }
@@ -170,9 +170,10 @@ android {
         }
     }
 
+
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 25
+        targetSdkVersion 26
         versionName "4.6.0"
 
         externalNativeBuild {
